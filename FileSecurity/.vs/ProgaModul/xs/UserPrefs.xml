@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{04C3669E-0A27-4378-A07D-78C1313DCE3B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProgaModul/Program.cs">
+    <Files>
+      <File FileName="ProgaModul/Program.cs" Line="13" Column="30" />
+      <File FileName="ProgaModul/MainProg.cs" Line="30" Column="18" />
+      <File FileName="ProgaModul/App.config" Line="1" Column="1" />
+      <File FileName="ProgaModul/Admin.cs" Line="1" Column="1" />
+      <File FileName="ProgaModul/Manager.cs" Line="1" Column="1" />
+      <File FileName="ProgaModul/Operator.cs" Line="1" Column="1" />
+      <File FileName="ProgaModul/txtFile.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ProgaModul PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
